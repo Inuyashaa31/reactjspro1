@@ -1,4 +1,5 @@
 import React from 'react'
+import SectionTilte from '../../components/SectionTitle';
 
 function Skills() {
     const skills = [
@@ -12,10 +13,8 @@ function Skills() {
     ];
   
     return (
-        <div className='py-5 gap-10 h-[65vh]'>
-            <h1 className='text-notso text-2xl'>
-                Skills Set:
-            </h1>
+        <div className='py-10 gap-7 h-[25vh] sm:h-[55vh]'>
+            <SectionTilte title="Skills set " />
             <div className='flex flex-wrap gap-10'>
                 {skills.map((skill, index) => (
                     <div className='border border-notso py-3 px-10 gap-5'>

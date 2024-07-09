@@ -2,9 +2,12 @@ import React from 'react'
 import Header from '../../components/Header'
 import Intro from './intro'
 import About from './about'
-import Aboutimg from './aboutimg'
 import Skills from './skills'
-import End from './ending'
+import Experiences from './Experiences'
+import Projects from './Projects'
+import ResumeDownloadButton from './resume'
+import Courses from './courses'
+import Contact from './contact'
 
 function Home(){
   return (
@@ -12,17 +15,25 @@ function Home(){
       <Header />
       <div className='bg-primary px-40 sm:px-5 '>
       
-      
       <Intro/>
 
       <About/>
+      
+      <Skills/>
+
+      <Experiences/>
+
+      <Projects/>
+
+      <Courses/>
+
+      <Contact/>
+
+      <ResumeDownloadButton/>
       </div>
-      <Aboutimg />
-      <div className='bg-primary px-40'>
-        <Skills/>
-      </div>
-      <End />
     </div>
+      
+    
   )
 }
 
