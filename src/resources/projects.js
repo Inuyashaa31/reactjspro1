@@ -7,7 +7,7 @@ export const projects = [
         ],
         title: "Spotify-clone (Music streaming app)",
         image: "https://www.freepik.com/free-vector/worldwide-delivery-service-global-navigation-ordering-system-world-tourism-idea-vacation-spot-vacation-spot-choosing-package-status-tracking-concept-illustration_11668477.htm#fromView=search&page=3&position=52&uuid=a58ab708-d703-4f7a-8bc7-166a3ef5fef5",
-        link: "https://github.com/Inuyashaa31/Diabetes-Prediction",
+        link: "https://github.com/Inuyashaa31/spotifyapiapp",
         description: "Developed a front-end web application replicating core functionalities of Spotify using React.js and the Spotify Web API. Created a user-friendly interface for music playback, playlist management, and real-time data fetching. Implemented features like user authentication and music search functionality using React Hooks and Axios for efficient API integration. Although the initial version lacks responsiveness, future iterations are planned to enhance usability across different devices.",
     }, {
         _id: "",
@@ -16,8 +16,8 @@ export const projects = [
         ],
         title: "Udemy Clone",
         image: "https://www.freepik.com/free-vector/worldwide-delivery-service-global-navigation-ordering-system-world-tourism-idea-vacation-spot-vacation-spot-choosing-package-status-tracking-concept-illustration_11668477.htm#fromView=search&page=3&position=52&uuid=a58ab708-d703-4f7a-8bc7-166a3ef5fef5",
-        link: "https://github.com/Inuyashaa31/Diabetes-Prediction",
-        description: "I demonstrated proficiency in web development using Flask for the backend and Bootstrap 4 for the frontend. I included features such as a symptoms page and a frequently asked questions (FAQs) section on diabetes symptoms to educate users. Utilizing the Support Vector Classification (SVC) algorithm, I achieved a 76% accuracy rate in predicting diabetes. This resulted in the successful delivery of a functional and informative web app designed to aid in diabetes prediction and awareness.",
+        link: "https://github.com/Inuyashaa31/udemy-Clone",
+        description: "Developed a comprehensive Udemy clone leveraging the MERN stack (MongoDB, Express.js, React, Node.js). Implemented features including user authentication, course creation, video streaming, and payment integration. Designed an intuitive UI to enhance user experience and ensure seamless navigation. Utilized RESTful APIs to manage data flow between frontend and backend, ensuring efficient performance. Applied best practices in responsive design and deployed the application on a cloud platform for scalability.",
     },
     {
         _id: "",
